@@ -1,6 +1,6 @@
-# 💬 Tars Chat — Real-time Messaging App
+# 💬 SwiftTalk — Real-time Messaging App
 
-Tars Chat is a full-stack real-time messaging web application built with Next.js 14, TypeScript, Convex, and Clerk. It supports one-on-one direct messages and group chats with live message delivery using Convex WebSocket subscriptions. Features include Clerk authentication, online/offline presence indicators, typing indicators, unread message badges, message reactions, soft delete, smart auto-scroll, and a fully responsive mobile layout — 14 features total across both required and optional tracks.
+SwiftTalk is a full-stack real-time messaging web application built with Next.js 14, TypeScript, Convex, and Clerk. It supports one-on-one direct messages and group chats with live message delivery using Convex WebSocket subscriptions. Features include Clerk authentication, online/offline presence indicators, typing indicators, unread message badges, message reactions, soft delete, smart auto-scroll, and a fully responsive mobile layout — 14 features total across both required and optional tracks.
 
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript)
